@@ -1,30 +1,19 @@
-- good day, I'm Kganyamayeza
+Aspiring developer focused on web technologies.
+Improving skills through practical, real-world projects.
+Interested in performance, usability, and clean code.
+Always learning, always building.
 
-I'm passionate about building robust and scalable systems, with a focus on both frontend and backend development. My journey in software is driven by curiosity and an ambition to engineer solutions that make a real-world impact—especially in industries where precision and reliability matter, like banking and financial technology.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kganyamayeza) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kganyamshiyane@icloud.com) 
 
-## About Me
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![UnoCSS](https://img.shields.io/badge/unocss-333333.svg?style=for-the-badge&logo=unocss&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kganyamayeza&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kganyamayeza&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kganyamayeza&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- I work across the stack, with a keen interest in advanced frameworks and architectures.
-- My approach to development is grounded in best practices, clean code, and a forward-looking mindset.
-- I am actively preparing for a career as a software engineer, with an eye on opportunities to help shape the future of banking systems and other mission-critical applications.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kganyamayeza&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
-## Technical Skills
 
-- TypeScript & JavaScript (ESNext)
-- React & Next.js for advanced frontend development
-- Node.js, Express, and serverless architectures
-- REST APIs, GraphQL, and real-time data solutions
-- Modern database systems (PostgreSQL, MongoDB, Redis)
-- Automated testing, CI/CD, and cloud deployment
-
-> I prioritize learning and applying new technologies that push the boundaries of what’s possible in software engineering.
-
-## Life Outside of Code
-
-When I’m not at the keyboard, you’ll find me staying active—on the basketball court, the soccer field, boxing, or at the gym. I believe that discipline and balance are just as important in life as they are in code.
-
-## Let's Connect
-
-If you’re interested in discussing advanced software engineering, fintech, or just want to talk sports and technology, feel free to reach out or explore my work here on GitHub.
-You can click the Preview link to take a look at your changes.
---->
