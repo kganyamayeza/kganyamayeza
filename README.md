@@ -1,4 +1,4 @@
-Software developer with combined expertise in data analysis and machine learning using Python. I build tools that turn data into insights and insights into action. Passionate about clean code, scalable solutions, and bridging the gap between data science and software engineering.
+Software developer with combined expertise in data analysis and machine learning using Python. I build tools that turn data into insights and insights into action. Passionate about clean code, scalable solutions.
 
 What I do:
 
