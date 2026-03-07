@@ -1,4 +1,14 @@
-Always learning, always building.
+Software developer with combined expertise in data analysis and machine learning using Python. I build tools that turn data into insights and insights into action. Passionate about clean code, scalable solutions, and bridging the gap between data science and software engineering.
+
+What I do:
+
+Develop Python-based applications and data pipelines
+
+Apply machine learning to solve real-world problems
+
+Create interactive dashboards and visualizations
+
+Write clean, tested, and documented code
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kganyamayeza) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:auclairmone@icloud.com) 
